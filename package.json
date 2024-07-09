@@ -1,0 +1,16 @@
+{
+  "name": "node-fangyi-zxh",
+  "version": "0.01.",
+  "main": "main.js",
+  "scripts": {
+    "start": "tsnd src/main.ts"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "inquirer": "^9.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.9"
+  }
+}
